@@ -13,6 +13,10 @@ app/**/*.js.map
 node_modules/
 bower_components/
 
+# database
+backend/.env
+.env
+
 # IDEs and editors
 .idea/
 
