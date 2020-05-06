@@ -14,8 +14,8 @@ node_modules/
 bower_components/
 
 # database
-backend/.env
 .env
+backend/.env
 
 # IDEs and editors
 .idea/
@@ -225,27 +225,15 @@ fabric.properties
 ### JetBrains Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
+.idea/
+
 # *.iml
 # modules.xml
 # .idea/misc.xml
 # *.ipr
 
-# Sonarlint plugin
-.idea/**/sonarlint/
-
-# SonarQube Plugin
-.idea/**/sonarIssues.xml
-
-# Markdown Navigator plugin
-.idea/**/markdown-navigator.xml
-.idea/**/markdown-navigator/
-
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
