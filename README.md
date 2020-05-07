@@ -3,12 +3,12 @@ Loja Virtual de Stickers
 
 (Em breve link do projeto em uma hospedagem)
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Front-end: Angularjs
 - Back-end: Django
 - Database: MySQL
 
-##Requisitos para rodar o projeto
+## Requisitos para rodar o projeto
 - Python (testado a partir da v. 3.8.2);
 - Django (testado a partir da v. 3.0.5);
 - PIP (testado a partir da v. 20.1);
@@ -19,21 +19,21 @@ Loja Virtual de Stickers
 - Npm (testado a partir da v. 6.13.4)
 - Angular (testado a partir da v. 9.1.0)
 
-##Estrutura
+## Estrutura
 O projeto está dividido em 2 módulos separados (backend e frontend), onde os 2 serviços rodam em portas diferentes e se
 comunicam através da política de CORS
 
-##Instalando o  projeto
-###Frontend
+## Instalando o  projeto
+### Frontend
 
-###Backend
+### Backend
 No diretório `backend`, faça uma cópia do arquivo `.env.example`, renomeie-o para `.env` e edite-o com os dados de acesso
 do seu banco de dados. 
 
 Após isso, basta rodar o seguinte comando no terminal, na mesma pasta:
 >python manage.py migrate
 
-##Rodando o projeto
+## Rodando o projeto
 Utilize os seguintes comandos, em 2 terminais diferentes: 
 
 
