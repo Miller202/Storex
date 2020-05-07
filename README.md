@@ -12,6 +12,7 @@ Loja Virtual de Stickers
 - Python (testado a partir da v. 3.8.2);
 - Django (testado a partir da v. 3.0.5);
 - PIP (testado a partir da v. 20.1);
+- Visual C++ (tesstado a partir da v. 14.0);
 - MySQL Server (testado a partir da v. 8.0.19);
 - [MySQL client for python (testado a partir da v. 1.4.6)](https://www.lfd.uci.edu/~gohlke/pythonlibs/);
 - Python Decouple: `pip install python-decouple`
